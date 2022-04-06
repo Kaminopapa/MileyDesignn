@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MileyDesignn/static/css/main.5edeb0a4.css",
-    "main.js": "/MileyDesignn/static/js/main.7e721c5d.js",
+    "main.js": "/MileyDesignn/static/js/main.f553e3ff.js",
     "static/media/02.png": "/MileyDesignn/static/media/02.22022c5137fc839e05d1.png",
     "static/media/001.png": "/MileyDesignn/static/media/001.669de9067b5d804caa1e.png",
     "static/media/01.png": "/MileyDesignn/static/media/01.ed11509b3bf46f5d3e40.png",
@@ -45,10 +45,10 @@
     "static/media/7.png": "/MileyDesignn/static/media/7.4186e3077764cd931984.png",
     "index.html": "/MileyDesignn/index.html",
     "main.5edeb0a4.css.map": "/MileyDesignn/static/css/main.5edeb0a4.css.map",
-    "main.7e721c5d.js.map": "/MileyDesignn/static/js/main.7e721c5d.js.map"
+    "main.f553e3ff.js.map": "/MileyDesignn/static/js/main.f553e3ff.js.map"
   },
   "entrypoints": [
     "static/css/main.5edeb0a4.css",
-    "static/js/main.7e721c5d.js"
+    "static/js/main.f553e3ff.js"
   ]
 }
