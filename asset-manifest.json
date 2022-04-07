@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/MileyDesignn/static/css/main.f08fa469.css",
-    "main.js": "/MileyDesignn/static/js/main.63e89023.js",
+    "main.css": "/MileyDesignn/static/css/main.018293af.css",
+    "main.js": "/MileyDesignn/static/js/main.c972cbec.js",
     "static/media/02.png": "/MileyDesignn/static/media/02.22022c5137fc839e05d1.png",
     "static/media/001.png": "/MileyDesignn/static/media/001.669de9067b5d804caa1e.png",
     "static/media/01.png": "/MileyDesignn/static/media/01.ed11509b3bf46f5d3e40.png",
@@ -18,6 +18,7 @@
     "static/media/4.jpg": "/MileyDesignn/static/media/4.c75f156cc81d0799fb22.jpg",
     "static/media/5.jpg": "/MileyDesignn/static/media/5.336d12b27a6590b64710.jpg",
     "static/media/ii.gif": "/MileyDesignn/static/media/ii.6430063036e7dde379b4.gif",
+    "static/media/bg.jpg": "/MileyDesignn/static/media/bg.cc5d5b71ff32f5a0b9ed.jpg",
     "static/media/5.png": "/MileyDesignn/static/media/5.8e765c858415267d6e61.png",
     "static/media/aboutImage.jpeg": "/MileyDesignn/static/media/aboutImage.0b928162df9c1c9988df.jpeg",
     "static/media/03.png": "/MileyDesignn/static/media/03.7f9b388f9a40071ccaac.png",
@@ -44,11 +45,11 @@
     "static/media/mileyLogo.png": "/MileyDesignn/static/media/mileyLogo.82b3b92175d82621530a.png",
     "static/media/7.png": "/MileyDesignn/static/media/7.4186e3077764cd931984.png",
     "index.html": "/MileyDesignn/index.html",
-    "main.f08fa469.css.map": "/MileyDesignn/static/css/main.f08fa469.css.map",
-    "main.63e89023.js.map": "/MileyDesignn/static/js/main.63e89023.js.map"
+    "main.018293af.css.map": "/MileyDesignn/static/css/main.018293af.css.map",
+    "main.c972cbec.js.map": "/MileyDesignn/static/js/main.c972cbec.js.map"
   },
   "entrypoints": [
-    "static/css/main.f08fa469.css",
-    "static/js/main.63e89023.js"
+    "static/css/main.018293af.css",
+    "static/js/main.c972cbec.js"
   ]
 }
